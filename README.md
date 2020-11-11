@@ -1,5 +1,4 @@
-MOBİL UYGULAMA GİZLİLİK BİLDİRİMİ - Dayı War
-Dayı War - TasarimciDayi - com.TasarimciDayi.DayiWar
+MOBİL UYGULAMA GİZLİLİK BİLDİRİMİ - Mobile Canyon
 
  
 Tüm Kullanıcılarımızın gizliliği bizim için çok önemlidir. Bir Uygulama Kullanıcısı olarak Hizmetimizi kullandığınızda, (Uygulama Yayıncısı olarak) Kişisel Verilerinizi işleriz. Bu Gizlilik Bildirimi, Kişisel Verilerinizi nasıl koruduğumuzu ve işleme koyduğumuzu açıklar. Dikkatlice okumanızı öneririz. 
